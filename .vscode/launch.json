@@ -1,0 +1,304 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AllOf",
+            "request": "launch",
+            "mainClass": "CompletableFuture.AllOf",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ThenApply",
+            "request": "launch",
+            "mainClass": "CompletableFuture.ThenApply",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "SupplyAsync",
+            "request": "launch",
+            "mainClass": "CompletableFuture.SupplyAsync",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "RunAsync",
+            "request": "launch",
+            "mainClass": "CompletableFuture.RunAsync",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "StringConcatExample",
+            "request": "launch",
+            "mainClass": "BiFunction.StringConcatExample",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeSalaryUpdate",
+            "request": "launch",
+            "mainClass": "BiFunction.EmployeeSalaryUpdate",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "MultipleResourcesExample",
+            "request": "launch",
+            "mainClass": "Exceptions.MultipleResourcesExample",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "MultipleCustomResourcesExample",
+            "request": "launch",
+            "mainClass": "Exceptions.MultipleCustomResourcesExample",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Lambdas_Functional_Interfaces.Supplier_Interface.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Abstraction.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Collections.List.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Collections.Map.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Collections.Set.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "DefaultMethod.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "Encapsulation.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "Exceptions.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "ImmutableClass.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "Lambdas_Functional_Interfaces.Consumer_Interface.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "Lambdas_Functional_Interfaces.Function_Interfcae.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "Lambdas_Functional_Interfaces.FunctionalInterface.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "Lambdas_Functional_Interfaces.Predicate_Interface.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrencyDemo",
+            "request": "launch",
+            "mainClass": "Multithreading.Concurrency.ConcurrencyDemo",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "Multithreading.Runnable.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "Multithreading.Synchronizaton.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "Multithreading.Thread.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ThreadSafetyDemo",
+            "request": "launch",
+            "mainClass": "Multithreading.ThreadSafety.ThreadSafetyDemo",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(17)",
+            "request": "launch",
+            "mainClass": "Serialization.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(18)",
+            "request": "launch",
+            "mainClass": "SingletonClass.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(19)",
+            "request": "launch",
+            "mainClass": "Spring.DI.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "StackOverflowErrorDemo",
+            "request": "launch",
+            "mainClass": "StackOverFlowError.StackOverflowErrorDemo",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalProgrammingDemo",
+            "request": "launch",
+            "mainClass": "Streams.Filter.FunctionalProgrammingDemo",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(20)",
+            "request": "launch",
+            "mainClass": "Streams.Filter.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(21)",
+            "request": "launch",
+            "mainClass": "Streams.Map.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Main(22)",
+            "request": "launch",
+            "mainClass": "Streams.Reduce.Main",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ParentConstructor",
+            "request": "launch",
+            "mainClass": "Super.ParentConstructor",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ParentMethod",
+            "request": "launch",
+            "mainClass": "Super.ParentMethod",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "ParentProperty",
+            "request": "launch",
+            "mainClass": "Super.ParentProperty",
+            "projectName": "Preparation_ca567fa3"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapisApplication<restapis>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.prep.restapis.RestapisApplication",
+            "projectName": "restapis",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
