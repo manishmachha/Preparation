@@ -7,7 +7,7 @@ public class ThenApply {
         CompletableFuture<String> future = CompletableFuture.supplyAsync(() -> {
             return "Hello";
         }).thenApply(greeting -> {
-            return greeting + ", World!";
+            return greeting.toUpperCase() + ", World!";
         });
 
         System.out.println(future.join()); // Output: Hello, World!

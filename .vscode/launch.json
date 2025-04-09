@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComparableMain",
+            "request": "launch",
+            "mainClass": "ComparableMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ComparatorMain",
+            "request": "launch",
+            "mainClass": "ComparatorMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "IteratorMain",
+            "request": "launch",
+            "mainClass": "IteratorMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "FetchUsersParallelExample",
+            "request": "launch",
+            "mainClass": "FetchUsersParallelExample",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "DefaultMethod.Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "CompletedFutureMain",
+            "request": "launch",
+            "mainClass": "CompletedFutureMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Exceptionally",
+            "request": "launch",
+            "mainClass": "CompletableFuture.Exceptionally",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ThenApply",
+            "request": "launch",
+            "mainClass": "CompletableFuture.ThenApply",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SupplyAsync",
+            "request": "launch",
+            "mainClass": "CompletableFuture.SupplyAsync",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AllOf",
+            "request": "launch",
+            "mainClass": "CompletableFuture.AllOf",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
